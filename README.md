@@ -1,1 +1,1 @@
-# BT03---L-p-tr-nh-cho-khoa-h-c-d-li-u
+Dữ liệu được dùng trong bài tập này là file "mvt.csv" đính kèm; đây là dữ liệu về tội phạm ăn cắp xe ở thành phố Chicago, bang Illinois, Hoa Kỳ ("mvt" là viết tắt của "motor vehicle theft"). Dữ liệu này được lấy từ khóa học "The Analytics Edge" ở trang edx.org, và gốc của dữ liệu là [ở đây](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2).
